@@ -43,14 +43,7 @@ I use Python, SQL, and Power BI to analyze and visualize data.
 
 🔗 Repo: https://github.com/Rudransharma1/market-basket-analysis
 
----
 
-### 3️⃣ Data Analytics Portfolio (Central Repository)
-- Created a centralized portfolio to showcase all analytics projects  
-- Includes project thumbnails, descriptions, and direct repository links  
-- Designed for recruiters to quickly review end-to-end data work  
-
-🔗 Repo: https://github.com/Rudransharma1/data-analytics-portfolio
 
 
 
